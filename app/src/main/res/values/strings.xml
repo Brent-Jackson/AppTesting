@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorldVersion6Million</string>
+
+    <string name="greeting">TESTING</string>
+    <string name="greeting2">TESTING NUMBER 2</string>
+    <string name="updateButtonText">Very long string used to test stuff</string>
+    <string name="action_settings">Settings</string>
+</resources>
